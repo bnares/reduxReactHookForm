@@ -1,0 +1,11 @@
+{
+    "autodesk.forge.environments": [
+
+        {
+            "title": "viewer",
+            "region": "US",
+            "clientId": "QQet8YZX9D3X10yHcD6qH50jt7bxzkiJ",
+            "clientSecret": "Rn7Ozvv2WkflOPhj",
+        }
+    ]
+}
